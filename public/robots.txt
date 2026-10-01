@@ -1,0 +1,17 @@
+# Robots.txt for Alex Morgan Portfolio
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://alexmorgan.dev/sitemap.xml
+
+# Disallow admin/private paths
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+Disallow: /node_modules/
+Disallow: /*.json$
+Disallow: /*.xml$
+
+# Crawl-delay (optional, be respectful)
+Crawl-delay: 10
