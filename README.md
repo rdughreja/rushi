@@ -1,4 +1,4 @@
-# Alex Morgan Portfolio
+# Rushi Ughreja Portfolio
 
 A modern, interactive portfolio website built with **Next.js 15**, **React 19**, **TypeScript**, **Tailwind CSS**, **Three.js**, and **Framer Motion**. Features 3D backgrounds, scroll animations, mouse interactions, and a fully responsive design.
 
