@@ -1,16 +1,17 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="600" fill="#050505" xmlns="" />
-  <defs xmlns="">
+﻿<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#050505"/>
+  <defs>
     <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
-      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#4f46e5" stroke-width="0.5" stroke-opacity="0.15" />
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#4f46e5" stroke-width="0.5" stroke-opacity="0.15"/>
     </pattern>
   </defs>
-  <rect width="800" height="600" fill="url(#grid)" xmlns="" />
-  <text x="400" y="240" font-family="system-ui, sans-serif" font-size="52" font-weight="800" fill="#818cf8" text-anchor="middle" letter-spacing="-0.02em" xmlns="">IPO Tracker</text>
-  <text x="400" y="305" font-family="system-ui, sans-serif" font-size="22" fill="#9ca3af" text-anchor="middle" font-weight="400" xmlns="">IPO Tracking &amp; Analysis Tool</text>
-  <text x="400" y="355" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#34d399" text-anchor="middle" xmlns="">React &amp; APIs &amp; Charts</text>
-  <rect x="320" y="400" width="160" height="4" rx="2" fill="#34d399" opacity="0.3" xmlns="" />
-  <circle cx="400" cy="450" r="65" fill="none" stroke="#6366f1" stroke-width="2" stroke-dasharray="12,8" opacity="0.4" xmlns="" />
-  <circle cx="400" cy="450" r="45" fill="none" stroke="#10b981" stroke-width="1.5" stroke-dasharray="8,6" opacity="0.3" xmlns="" />
-  <text x="400" y="465" font-family="system-ui, sans-serif" font-size="14" fill="#9ca3af" text-anchor="middle" font-weight="500" xmlns="">Project Preview</text>
+  <rect width="800" height="600" fill="url(#grid)"/>
+  <text x="400" y="240" font-family="system-ui, sans-serif" font-size="52" font-weight="800" fill="#818cf8" text-anchor="middle" letter-spacing="-0.02em">IPO Tracker</text>
+  <text x="400" y="305" font-family="system-ui, sans-serif" font-size="22" fill="#9ca3af" text-anchor="middle" font-weight="400">IPO Tracking &amp; Analysis Tool</text>
+  <text x="400" y="355" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#34d399" text-anchor="middle">React &amp; APIs &amp; Charts</text>
+  <rect x="320" y="400" width="160" height="4" rx="2" fill="#34d399" opacity="0.3"/>
+  <circle cx="400" cy="450" r="65" fill="none" stroke="#6366f1" stroke-width="2" stroke-dasharray="12,8" opacity="0.4"/>
+  <circle cx="400" cy="450" r="45" fill="none" stroke="#10b981" stroke-width="1.5" stroke-dasharray="8,6" opacity="0.3"/>
+  <text x="400" y="465" font-family="system-ui, sans-serif" font-size="14" fill="#9ca3af" text-anchor="middle" font-weight="500">Project Preview</text>
 </svg>
+
